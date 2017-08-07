@@ -1,5 +1,7 @@
 # Haskell-Composer
-A composer that uses a database of song notes and composes new songs accordingly, This Project was created for academic purposes
+A composer that uses a database of song notes and composes new songs accordingly.
+
+This Project was created for academic purposes.
 
 # Description
 
